@@ -1,6 +1,6 @@
 # Intro to AI Course Project – BERT-based Text Processing
 
-This project implements a BERT-based model using the HuggingFace Transformers library. It was developed as part of an Advanced AI course to demonstrate the application of pretrained language models for natural language processing.
+This project implements a BERT-based model using the HuggingFace Transformers library. It was developed as part of an  Intro to AI course to demonstrate the application of pretrained language models for natural language processing.
 
 ## Project Overview
 
